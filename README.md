@@ -1,3 +1,8 @@
+* Working: No
+* Interesting: No
+* Progress: Abandoned
+* Purpose: Experiment
+
 fb_bot
 ======
 
